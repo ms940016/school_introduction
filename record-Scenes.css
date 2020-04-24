@@ -1,0 +1,57 @@
+.content {
+    text-align: center;
+    height: 2000px;
+}
+
+.Scenes-Photo {
+    size: 20px;
+    margin: 10px auto;
+    padding: 5px auto;
+    margin: 0px auto;
+}
+
+.photo {
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+    border-radius: 20px;
+    padding: 8px;
+    text-align: center;
+margin: 0px auto;
+}
+
+.photo:hover {
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    border-radius: 0;
+    margin-left: 8px;
+    box-shadow: 5px 5px 15px #DDDDDD;
+
+}
+
+.vedio-major1 {
+    
+    width: 950px;
+    height: 700px;
+    margin: 0px auto;
+    background-color: #FAF0DB;
+
+    text-align: center;
+
+}
+
+.video {
+    text-align: center;
+    width="auto";
+    height="auto";
+    
+
+}
+
+.hey{
+    
+    font-size: 36px;
+    font-weight: bolder;
+}

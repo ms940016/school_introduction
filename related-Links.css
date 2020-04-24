@@ -1,0 +1,87 @@
+.content
+{
+    text-align: center;
+    margin-top: 30px auto;
+    height: 855px;
+}
+.link-All 
+{
+    list-style: square;
+    /*到時候可以成其他的*/
+    width: 500px;
+    height: 70px;
+    background-color: yellow;
+    display: block;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+h3
+{
+    color: white;
+    font-size: 20px;
+}
+
+.web1 
+{
+    border: 1px solid;
+    margin: 10px;
+    height: 350px;
+    width: 420px;
+    float: left;
+    background-color: #24585f;
+    border-top-left-radius: 20px;
+
+    -webkit-transition: height 2s, width 2s;
+    transition:height 2s, width 2s;
+
+}
+
+.web1:hover
+{
+    margin: 10px; 
+    height: 352px;
+    width: 440px;
+    background-color: #4d919a; 
+}
+
+.web2 
+{
+    border: 1px solid;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    height: 350px;
+    width: 420px;
+    float: left;
+    background-color: #24585f;
+    border-top-right-radius: 20px;
+    -webkit-transition: height 2s, width 2s;
+    transition:height 2s, width 2s;
+}
+
+.web2:hover
+{
+    margin: 10px; 
+    height: 352px;
+    width: 440px;
+    background-color: #4d919a; 
+}
+
+
+
+.link-one 
+{
+    background-color: none;
+    width: 400px;
+    height: 250px;
+    cursor: pointer;
+}
+
+.list-style 
+{
+    height: 22px;
+    width: 22px;
+}
