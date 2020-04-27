@@ -112,8 +112,8 @@ body {
 }
 
 .video {
-    width= "auto";
-    height="auto";
+    width: "auto";
+    height:"auto";
     float: right;
     border-radius: 10px;
 }
